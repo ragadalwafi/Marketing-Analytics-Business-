@@ -28,7 +28,7 @@ This project presents an end-to-end data analytics workflow that starts with dat
 
  --- 
 
- [![Watch the video](https://github.com/user-attachments/assets/9e97cdde-f21c-4b36-a6f6-ceef1d5942ec)
+ [Watch the demo](https://github.com/user-attachments/assets/9e97cdde-f21c-4b36-a6f6-ceef1d5942ec)
 
  ---
- [![Watch the video](https://github.com/user-attachments/assets/681ba596-dcf4-444b-adb5-f0354006eb68)
+[Watch the demo](https://github.com/user-attachments/assets/681ba596-dcf4-444b-adb5-f0354006eb68)
