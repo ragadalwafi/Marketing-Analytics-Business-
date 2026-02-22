@@ -1,8 +1,7 @@
-Project Overview:
-- The Marketing Analytics Business project focuses on analyzing key marketing performance indicators,
-including conversion rates, customer engagement,and customer feedback.
-By leveraging data insights, the project identifies performance trends,
-content effectiveness, and customer sentiment to drive strategic improvements.
+## Marketing Analytics & Sentiment Analysis Project
+
+## Project Overview:
+This project presents an end-to-end data analytics workflow that starts with data cleaning and transformation using SQL, continues with sentiment analysis using Python, and concludes with an interactive Power BI dashboard to generate actionable business insights.
 
 Tools & Skills:
 - Data trend analysis (conversion, engagement)
